@@ -1,0 +1,226 @@
+{
+	"Eliotrope": {
+		"Spell1": {
+			"id": 1,
+			"Variant1": { "Name": "Portal", "Cooldown": 0 },
+			"Variant2": { "Name": "Flexible_Portal", "Cooldown": 0 }
+		},
+		"Spell2": {
+			"id": 2,
+			"Variant1": { "Name": "Insult", "Cooldown": 0 },
+			"Variant2": { "Name": "Contempt", "Cooldown": 0 }
+		},
+		"Spell3": {
+			"id": 3,
+			"Variant1": { "Name": "Affliction", "Cooldown": 0 },
+			"Variant2": { "Name": "Tribulation", "Cooldown": 0 }
+		},
+		"Spell4": {
+			"id": 4,
+			"Variant1": { "Name": "Shock", "Cooldown": 0 },
+			"Variant2": { "Name": "Convulsion", "Cooldown": 0 }
+		},
+		"Spell5": {
+			"id": 5,
+			"Variant1": { "Name": "Wakfu_Ray", "Cooldown": 0 },
+			"Variant2": { "Name": "Lazybeam", "Cooldown": 0 }
+		},
+		"Spell6": {
+			"id": 6,
+			"Variant1": { "Name": "Neutral", "Cooldown": 0 },
+			"Variant2": { "Name": "Interruption", "Cooldown": 0 }
+		},
+		"Spell7": {
+			"id": 7,
+			"Variant1": { "Name": "Offence", "Cooldown": 0 },
+			"Variant2": { "Name": "Affront", "Cooldown": 0 }
+		},
+		"Spell8": {
+			"id": 8,
+			"Variant1": { "Name": "Stretching", "Cooldown": 3 },
+			"Variant2": { "Name": "Contraction", "Cooldown": 2 }
+		},
+		"Spell9": {
+			"id": 9,
+			"Variant1": { "Name": "Therapy", "Cooldown": 0 },
+			"Variant2": { "Name": "Snub", "Cooldown": 0 }
+		},
+		"Spell10": {
+			"id": 10,
+			"Variant1": { "Name": "Distribution", "Cooldown": 3 },
+			"Variant2": { "Name": "Diffusion", "Cooldown": 3 }
+		},
+		"Spell11": {
+			"id": 11,
+			"Variant1": { "Name": "Stupor", "Cooldown": 2 },
+			"Variant2": { "Name": "Distortion", "Cooldown": 3 }
+		},
+		"Spell12": {
+			"id": 12,
+			"Variant1": { "Name": "Bullying", "Cooldown": 0 },
+			"Variant2": { "Name": "Sermon", "Cooldown": 0 }
+		},
+		"Spell13": {
+			"id": 13,
+			"Variant1": { "Name": "Healing", "Cooldown": 0 },
+			"Variant2": { "Name": "Conjuration", "Cooldown": 2 }
+		},
+		"Spell14": {
+			"id": 14,
+			"Variant1": { "Name": "Lightning_Fist", "Cooldown": 0 },
+			"Variant2": { "Name": "Insolence", "Cooldown": 0 }
+		},
+		"Spell15": {
+			"id": 15,
+			"Variant1": { "Name": "Odyssey", "Cooldown": 0 },
+			"Variant2": { "Name": "Exodus", "Cooldown": 0 }
+		},
+		"Spell16": {
+			"id": 16,
+			"Variant1": { "Name": "Curative_Palm", "Cooldown": 0 },
+			"Variant2": { "Name": "Cabal", "Cooldown": 0 }
+		},
+		"Spell17": {
+			"id": 17,
+			"Variant1": { "Name": "Audacious", "Cooldown": 0 },
+			"Variant2": { "Name": "Composure", "Cooldown": 0 }
+		},
+		"Spell18": {
+			"id": 18,
+			"Variant1": { "Name": "Focus", "Cooldown": 0 },
+			"Variant2": { "Name": "Conflagration", "Cooldown": 0 }
+		},
+		"Spell19": {
+			"id": 19,
+			"Variant1": { "Name": "Parasite", "Cooldown": 0 },
+			"Variant2": { "Name": "Virus", "Cooldown": 0 }
+		},
+		"Spell20": {
+			"id": 20,
+			"Variant1": { "Name": "Sinecure", "Cooldown": 0 },
+			"Variant2": { "Name": "Ridicule", "Cooldown": 0 }
+		},
+		"Spell21": {
+			"id": 21,
+			"Variant1": { "Name": "Sarcasm", "Cooldown": 0 },
+			"Variant2": { "Name": "Persiflage", "Cooldown": 0 }
+		},
+		"Spell22": {
+			"id": 22,
+			"Variant1": { "Name": "Mutual_Assistance", "Cooldown": 3 },
+			"Variant2": { "Name": "Coalition", "Cooldown": 0 }
+		}
+	},
+	"Ecaflip": {
+		"Spell1": {
+			"id": 1,
+			"Variant1": { "Name": "Heads_or_Tails", "Cooldown": 0 },
+			"Variant2": { "Name": "Tails_or_Heads", "Cooldown": 0 }
+		},
+		"Spell2": {
+			"id": 2,
+			"Variant1": { "Name": "Ecaflips_Luck", "Cooldown": 4 },
+			"Variant2": { "Name": "Godsend", "Cooldown": 0 }
+		},
+		"Spell3": {
+			"id": 3,
+			"Variant1": { "Name": "Balling_Up", "Cooldown": 0 },
+			"Variant2": { "Name": "Meowch", "Cooldown": 0 }
+		},
+		"Spell4": {
+			"id": 4,
+			"Variant1": { "Name": "Bluff", "Cooldown": 0 },
+			"Variant2": { "Name": "Nerve", "Cooldown": 0 }
+		},
+		"Spell5": {
+			"id": 5,
+			"Variant1": { "Name": "Catnip", "Cooldown": 0 },
+			"Variant2": { "Name": "Leap", "Cooldown": 0 }
+		},
+		"Spell6": {
+			"id": 6,
+			"Variant1": { "Name": "Topkai", "Cooldown": 0 },
+			"Variant2": { "Name": "Yowling", "Cooldown": 0 }
+		},
+		"Spell7": {
+			"id": 7,
+			"Variant1": { "Name": "Summoning_Claw", "Cooldown": 4 },
+			"Variant2": { "Name": "Summoning_Stroke", "Cooldown": 4 }
+		},
+		"Spell8": {
+			"id": 8,
+			"Variant1": { "Name": "Perception", "Cooldown": 0 },
+			"Variant2": { "Name": "Roar", "Cooldown": 2 }
+		},
+		"Spell9": {
+			"id": 9,
+			"Variant1": { "Name": "All_or_Nothing", "Cooldown": 2 },
+			"Variant2": { "Name": "Peril", "Cooldown": 2 }
+		},
+		"Spell10": {
+			"id": 10,
+			"Variant1": { "Name": "Roulette", "Cooldown": 4 },
+			"Variant2": { "Name": "Spell_Strike", "Cooldown": 4 }
+		},
+		"Spell11": {
+			"id": 11,
+			"Variant1": { "Name": "Repercussion", "Cooldown": 4 },
+			"Variant2": { "Name": "Corollary", "Cooldown": 0 }
+		},
+		"Spell12": {
+			"id": 12,
+			"Variant1": { "Name": "Rough_Tongue", "Cooldown": 0 },
+			"Variant2": { "Name": "Lapping_Up", "Cooldown": 0 }
+		},
+		"Spell13": {
+			"id": 13,
+			"Variant1": { "Name": "Wheel_of_Fortune", "Cooldown": 4 },
+			"Variant2": { "Name": "Pussycat", "Cooldown": 4 }
+		},
+		"Spell14": {
+			"id": 14,
+			"Variant1": { "Name": "Feline_Spirit", "Cooldown": 0 },
+			"Variant2": { "Name": "Pawpads", "Cooldown": 0 }
+		},
+		"Spell15": {
+			"id": 15,
+			"Variant1": { "Name": "Clover", "Cooldown": 0 },
+			"Variant2": { "Name": "Lucky_Star", "Cooldown": 0 }
+		},
+		"Spell16": {
+			"id": 16,
+			"Variant1": { "Name": "Smell", "Cooldown": 2 },
+			"Variant2": { "Name": "Redistribution", "Cooldown": 3 }
+		},
+		"Spell17": {
+			"id": 17,
+			"Variant1": { "Name": "Reflex", "Cooldown": 0 },
+			"Variant2": { "Name": "Bravado", "Cooldown": 0 }
+		},
+		"Spell18": {
+			"id": 18,
+			"Variant1": { "Name": "Playful_Claw", "Cooldown": 0 },
+			"Variant2": { "Name": "Misadventure", "Cooldown": 0 }
+		},
+		"Spell19": {
+			"id": 19,
+			"Variant1": { "Name": "Felintion", "Cooldown": 0 },
+			"Variant2": { "Name": "Kraps", "Cooldown": 0 }
+		},
+		"Spell20": {
+			"id": 20,
+			"Variant1": { "Name": "Claw_of_Ceangal", "Cooldown": 0 },
+			"Variant2": { "Name": "Misfortune", "Cooldown": 0 }
+		},
+		"Spell21": {
+			"id": 21,
+			"Variant1": { "Name": "Rekop", "Cooldown": 0 },
+			"Variant2": { "Name": "Trickery", "Cooldown": 0 }
+		},
+		"Spell22": {
+			"id": 22,
+			"Variant1": { "Name": "Fate_of_Ecaflip", "Cooldown": 3 },
+			"Variant2": { "Name": "Ecaflips_Audacity", "Cooldown": 0 }
+		}
+	}
+}

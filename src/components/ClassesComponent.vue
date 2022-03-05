@@ -53,10 +53,10 @@
 				<v-container>
 					<v-card id="info_card">
 						<v-container>
+							<div class="text-h5 blue-grey--text text--lighten-5">Overview</div>
 							<div class="text-h6 blue-grey--text text--lighten-5">
 								Selected Turn: <span class="blue--text text--lighten-1">{{ SelectedTurn }}</span>
 							</div>
-							<br />
 							<div class="text-h6 orange--text text--lighten-1">Mode:</div>
 							<div class="text-h6 orange--text text--lighten-1" v-if="trackCooldown">Track Cooldown</div>
 							<div class="text-h6 orange--text text--lighten-1" v-if="!trackCooldown">
@@ -65,6 +65,28 @@
 							<v-btn class="green lighten-1" block @click="trackCooldown = !trackCooldown"
 								>Switch Mode</v-btn
 							>
+						</v-container>
+					</v-card>
+				</v-container>
+				<v-container>
+					<v-card id="info_card">
+						<v-container>
+							<div class="text-h5 blue-grey--text text--lighten-5">Guide</div>
+							<div class="text blue-grey--text text--lighten-5">1. Select classes</div>
+							<div class="text blue-grey--text text--lighten-5">
+								2. Select <span class="blue--text text--lighten-1"> turn</span> in Timeline
+							</div>
+							<br />
+							<div class="text-h6 blue-grey--text text--lighten-5">Modes:</div>
+							<div class="text blue-grey--text text--lighten-5">1. Select Variants:</div>
+							<div class="text blue-grey--text text--lighten-5">
+								To remember which variants are played, click it while in "Select Variants" mode.
+							</div>
+							<br />
+							<div class="text blue-grey--text text--lighten-5">2. Track Cooldown:</div>
+							<div class="text blue-grey--text text--lighten-5">
+								To track a spells cooldown in the timeline, click it while in "Track Cooldown" mode.
+							</div>
 						</v-container>
 					</v-card>
 				</v-container>

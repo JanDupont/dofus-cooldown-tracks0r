@@ -446,5 +446,117 @@
 			"Variant1": { "Name": "Iops_Wrath", "Cooldown": 3 },
 			"Variant2": { "Name": "Fit_of_Rage", "Cooldown": 0 }
 		}
+	},
+	"Cra": {
+		"Spell1": {
+			"id": 1,
+			"Variant1": { "Name": "Magic_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Concentration_Arrow", "Cooldown": 0 }
+		},
+		"Spell2": {
+			"id": 2,
+			"Variant1": { "Name": "Retreat_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Erosive_Arrow", "Cooldown": 0 }
+		},
+		"Spell3": {
+			"id": 3,
+			"Variant1": { "Name": "Dispersing_Arrow", "Cooldown": 2 },
+			"Variant2": { "Name": "Reprisal", "Cooldown": 4 }
+		},
+		"Spell4": {
+			"id": 4,
+			"Variant1": { "Name": "Frozen_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Paralysing_Arrow", "Cooldown": 0 }
+		},
+		"Spell5": {
+			"id": 5,
+			"Variant1": { "Name": "Burning_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Repulsive_Arrow", "Cooldown": 0 }
+		},
+		"Spell6": {
+			"id": 6,
+			"Variant1": { "Name": "Distant_Shooting", "Cooldown": 5 },
+			"Variant2": { "Name": "Absolute_Acuteness", "Cooldown": 3 }
+		},
+		"Spell7": {
+			"id": 7,
+			"Variant1": { "Name": "Atonement_Arrow", "Cooldown": 3 },
+			"Variant2": { "Name": "Redemption_Arrow", "Cooldown": 0 }
+		},
+		"Spell8": {
+			"id": 8,
+			"Variant1": { "Name": "Bats_Eye", "Cooldown": 3 },
+			"Variant2": { "Name": "Crushing_Arrow", "Cooldown": 3 }
+		},
+		"Spell9": {
+			"id": 9,
+			"Variant1": { "Name": "Critical_Shooting", "Cooldown": 5 },
+			"Variant2": { "Name": "Recall_Beacon", "Cooldown": 2 }
+		},
+		"Spell10": {
+			"id": 10,
+			"Variant1": { "Name": "Immobilising_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Assailing_Arrow", "Cooldown": 0 }
+		},
+		"Spell11": {
+			"id": 11,
+			"Variant1": { "Name": "Puntive_Arrow", "Cooldown": 2 },
+			"Variant2": { "Name": "Arrow_of_Judgement", "Cooldown": 0 }
+		},
+		"Spell12": {
+			"id": 12,
+			"Variant1": { "Name": "Powerful_Shooting", "Cooldown": 6 },
+			"Variant2": { "Name": "Tactical_Beacon", "Cooldown": 2 }
+		},
+		"Spell13": {
+			"id": 13,
+			"Variant1": { "Name": "Plaguing_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Slaughtering_Arrow", "Cooldown": 0 }
+		},
+		"Spell14": {
+			"id": 14,
+			"Variant1": { "Name": "Poisoned_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Curative_Arrow", "Cooldown": 0 }
+		},
+		"Spell15": {
+			"id": 15,
+			"Variant1": { "Name": "Tormenting_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Tyrannical_Arrow", "Cooldown": 0 }
+		},
+		"Spell16": {
+			"id": 16,
+			"Variant1": { "Name": "Destructive_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Barricade_Shot", "Cooldown": 0 }
+		},
+		"Spell17": {
+			"id": 17,
+			"Variant1": { "Name": "Absorptive_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Devouring_Arrow", "Cooldown": 0 }
+		},
+		"Spell18": {
+			"id": 18,
+			"Variant1": { "Name": "Lashing_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Withdrawal_Arrow", "Cooldown": 0 }
+		},
+		"Spell19": {
+			"id": 19,
+			"Variant1": { "Name": "Slow_Down_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Striking_Arrow", "Cooldown": 0 }
+		},
+		"Spell20": {
+			"id": 20,
+			"Variant1": { "Name": "Conniving_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Abolition_Arrow", "Cooldown": 0 }
+		},
+		"Spell21": {
+			"id": 21,
+			"Variant1": { "Name": "Explosive_Arrow", "Cooldown": 0 },
+			"Variant2": { "Name": "Fulminating_Arrow", "Cooldown": 0 }
+		},
+		"Spell22": {
+			"id": 22,
+			"Variant1": { "Name": "Bow_Skill", "Cooldown": 5 },
+			"Variant2": { "Name": "Sentinel", "Cooldown": 3 }
+		}
 	}
 }

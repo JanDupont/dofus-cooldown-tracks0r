@@ -222,5 +222,117 @@
 			"Variant1": { "Name": "Fate_of_Ecaflip", "Cooldown": 3 },
 			"Variant2": { "Name": "Ecaflips_Audacity", "Cooldown": 0 }
 		}
+	},
+	"Eniripsa": {
+		"Spell1": {
+			"id": 1,
+			"Variant1": { "Name": "Wounding_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Slighting_Word", "Cooldown": 0 }
+		},
+		"Spell2": {
+			"id": 2,
+			"Variant1": { "Name": "Alternative_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Striking_Word", "Cooldown": 0 }
+		},
+		"Spell3": {
+			"id": 3,
+			"Variant1": { "Name": "Friendship_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Affectionate_Word", "Cooldown": 0 }
+		},
+		"Spell4": {
+			"id": 4,
+			"Variant1": { "Name": "Forbidden_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Taboo_Word", "Cooldown": 0 }
+		},
+		"Spell5": {
+			"id": 5,
+			"Variant1": { "Name": "Frightening_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Seductive_Word", "Cooldown": 0 }
+		},
+		"Spell6": {
+			"id": 6,
+			"Variant1": { "Name": "Stimulating_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Self-Sacrificing_Word", "Cooldown": 0 }
+		},
+		"Spell7": {
+			"id": 7,
+			"Variant1": { "Name": "Brutal_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Pernicious_Word", "Cooldown": 0 }
+		},
+		"Spell8": {
+			"id": 8,
+			"Variant1": { "Name": "Word_of_Youth", "Cooldown": 0 },
+			"Variant2": { "Name": "Defensive_Word", "Cooldown": 0 }
+		},
+		"Spell9": {
+			"id": 9,
+			"Variant1": { "Name": "Selective_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Impartial_Word", "Cooldown": 0 }
+		},
+		"Spell10": {
+			"id": 10,
+			"Variant1": { "Name": "Blaring_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Resounding_Word", "Cooldown": 0 }
+		},
+		"Spell11": {
+			"id": 11,
+			"Variant1": { "Name": "Preventing_Word", "Cooldown": 4 },
+			"Variant2": { "Name": "Helping_Word", "Cooldown": 4 }
+		},
+		"Spell12": {
+			"id": 12,
+			"Variant1": { "Name": "Secret_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Agonising_Word", "Cooldown": 0 }
+		},
+		"Spell13": {
+			"id": 13,
+			"Variant1": { "Name": "Turbulent_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Mischievous_Word", "Cooldown": 0 }
+		},
+		"Spell14": {
+			"id": 14,
+			"Variant1": { "Name": "Paralysing_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Life-Giving_Word", "Cooldown": 0 }
+		},
+		"Spell15": {
+			"id": 15,
+			"Variant1": { "Name": "Puzzling_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Furious_Word", "Cooldown": 0 }
+		},
+		"Spell16": {
+			"id": 16,
+			"Variant1": { "Name": "Whirling_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Whirlwind_Word", "Cooldown": 0 }
+		},
+		"Spell17": {
+			"id": 17,
+			"Variant1": { "Name": "Thunderous_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Overwhelming_Word", "Cooldown": 0 }
+		},
+		"Spell18": {
+			"id": 18,
+			"Variant1": { "Name": "Word_of_Silence", "Cooldown": 3 },
+			"Variant2": { "Name": "Sacrificial_Word", "Cooldown": 2 }
+		},
+		"Spell19": {
+			"id": 19,
+			"Variant1": { "Name": "Regenerating_Word", "Cooldown": 0 },
+			"Variant2": { "Name": "Regenerating_Mark", "Cooldown": 0 }
+		},
+		"Spell20": {
+			"id": 20,
+			"Variant1": { "Name": "Lifting_Word", "Cooldown": 3 },
+			"Variant2": { "Name": "Rallying_Word", "Cooldown": 2 }
+		},
+		"Spell21": {
+			"id": 21,
+			"Variant1": { "Name": "Revitalising_Word", "Cooldown": 3 },
+			"Variant2": { "Name": "Galvanising_Word", "Cooldown": 5 }
+		},
+		"Spell22": {
+			"id": 22,
+			"Variant1": { "Name": "Word_of_Recovery", "Cooldown": 6 },
+			"Variant2": { "Name": "Uniting_Word", "Cooldown": 0 }
+		}
 	}
 }

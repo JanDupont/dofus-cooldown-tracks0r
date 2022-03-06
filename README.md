@@ -22,7 +22,6 @@ Then there are two modes to interact with Spells.
 
 -   add Spells of remaining classes:
     -   Cra
-    -   Eni
     -   Enu
     -   Feca
     -   Fogg

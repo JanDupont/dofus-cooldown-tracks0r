@@ -334,5 +334,117 @@
 			"Variant1": { "Name": "Word_of_Recovery", "Cooldown": 6 },
 			"Variant2": { "Name": "Uniting_Word", "Cooldown": 0 }
 		}
+	},
+	"Iop": {
+		"Spell1": {
+			"id": 1,
+			"Variant1": { "Name": "Pressure", "Cooldown": 0 },
+			"Variant2": { "Name": "Fracture", "Cooldown": 0 }
+		},
+		"Spell2": {
+			"id": 2,
+			"Variant1": { "Name": "Jump", "Cooldown": 0 },
+			"Variant2": { "Name": "Determination", "Cooldown": 2 }
+		},
+		"Spell3": {
+			"id": 3,
+			"Variant1": { "Name": "Outpouring", "Cooldown": 0 },
+			"Variant2": { "Name": "Destructive_Ring", "Cooldown": 0 }
+		},
+		"Spell4": {
+			"id": 4,
+			"Variant1": { "Name": "Divine_Sword", "Cooldown": 0 },
+			"Variant2": { "Name": "Chopper", "Cooldown": 0 }
+		},
+		"Spell5": {
+			"id": 5,
+			"Variant1": { "Name": "Destructive_Sword", "Cooldown": 0 },
+			"Variant2": { "Name": "Accumulation", "Cooldown": 0 }
+		},
+		"Spell6": {
+			"id": 6,
+			"Variant1": { "Name": "Intimidation", "Cooldown": 0 },
+			"Variant2": { "Name": "Conquest", "Cooldown": 3 }
+		},
+		"Spell7": {
+			"id": 7,
+			"Variant1": { "Name": "Blow", "Cooldown": 2 },
+			"Variant2": { "Name": "Violence", "Cooldown": 0 }
+		},
+		"Spell8": {
+			"id": 8,
+			"Variant1": { "Name": "Massacre", "Cooldown": 3 },
+			"Variant2": { "Name": "Gathering", "Cooldown": 2 }
+		},
+		"Spell9": {
+			"id": 9,
+			"Variant1": { "Name": "Concentration", "Cooldown": 0 },
+			"Variant2": { "Name": "Sword_of_Judgement", "Cooldown": 0 }
+		},
+		"Spell10": {
+			"id": 10,
+			"Variant1": { "Name": "Fervour", "Cooldown": 0 },
+			"Variant2": { "Name": "Threat", "Cooldown": 0 }
+		},
+		"Spell11": {
+			"id": 11,
+			"Variant1": { "Name": "Friction", "Cooldown": 3 },
+			"Variant2": { "Name": "Fight_Back", "Cooldown": 3 }
+		},
+		"Spell12": {
+			"id": 12,
+			"Variant1": { "Name": "Duel", "Cooldown": 4 },
+			"Variant2": { "Name": "Grip", "Cooldown": 4 }
+		},
+		"Spell13": {
+			"id": 13,
+			"Variant1": { "Name": "Strengthstorm", "Cooldown": 0 },
+			"Variant2": { "Name": "Tumult", "Cooldown": 0 }
+		},
+		"Spell14": {
+			"id": 14,
+			"Variant1": { "Name": "Celestial_Sword", "Cooldown": 0 },
+			"Variant2": { "Name": "Zenith", "Cooldown": 0 }
+		},
+		"Spell15": {
+			"id": 15,
+			"Variant1": { "Name": "Power", "Cooldown": 4 },
+			"Variant2": { "Name": "Virtue", "Cooldown": 3 }
+		},
+		"Spell16": {
+			"id": 16,
+			"Variant1": { "Name": "Precipitation", "Cooldown": 2 },
+			"Variant2": { "Name": "Agitation", "Cooldown": 2 }
+		},
+		"Spell17": {
+			"id": 17,
+			"Variant1": { "Name": "Castigation", "Cooldown": 0 },
+			"Variant2": { "Name": "Endurance", "Cooldown": 0 }
+		},
+		"Spell18": {
+			"id": 18,
+			"Variant1": { "Name": "Sword_of_Iop", "Cooldown": 0 },
+			"Variant2": { "Name": "Pygmachia", "Cooldown": 0 }
+		},
+		"Spell19": {
+			"id": 19,
+			"Variant1": { "Name": "Vitality", "Cooldown": 2 },
+			"Variant2": { "Name": "Prosecution", "Cooldown": 0 }
+		},
+		"Spell20": {
+			"id": 20,
+			"Variant1": { "Name": "Sword_of_Fate", "Cooldown": 0 },
+			"Variant2": { "Name": "Pounding", "Cooldown": 0 }
+		},
+		"Spell21": {
+			"id": 21,
+			"Variant1": { "Name": "Cleaver", "Cooldown": 0 },
+			"Variant2": { "Name": "Sentence", "Cooldown": 0 }
+		},
+		"Spell22": {
+			"id": 22,
+			"Variant1": { "Name": "Iops_Wrath", "Cooldown": 3 },
+			"Variant2": { "Name": "Fit_of_Rage", "Cooldown": 0 }
+		}
 	}
 }

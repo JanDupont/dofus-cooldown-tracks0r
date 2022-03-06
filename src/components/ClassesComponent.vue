@@ -138,7 +138,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 #bigContainer {
 	display: table-row;
 	box-sizing: border-box;

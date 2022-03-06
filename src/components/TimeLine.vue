@@ -11,9 +11,9 @@
 					</v-card-title>
 					<v-container>
 						<v-row>
-							<v-col cols="12" md="12">
+							<v-col cols="12" md="12" id="bigContainer">
 								<h3>Used Spells this turn:</h3>
-								<div v-for="spell in spells_casted" :key="'A' + spell.id">
+								<div v-for="spell in spells_casted" :key="'A' + spell.id" id="midContainer">
 									<v-container v-if="spell.Turn == turn">
 										<img
 											v-if="spell.Turn == turn"
@@ -29,7 +29,7 @@
 								</div>
 
 								<h3>Spells on Cooldown:</h3>
-								<div v-for="spell in spells_casted" :key="'B' + spell.id">
+								<div v-for="spell in spells_casted" :key="'B' + spell.id" id="midContainer">
 									<v-container v-if="turn >= spell.Turn && turn < spell.Spell_up_again">
 										<img
 											v-if="turn >= spell.Turn && turn <= spell.Spell_up_again"
@@ -71,9 +71,17 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 #my-timeline-container {
 	max-height: 91vh;
 	overflow: scroll;
+}
+#bigContainer {
+	display: table-row;
+	box-sizing: border-box;
+}
+#midContainer {
+	display: inline-block;
+	box-sizing: border-box;
 }
 </style>
